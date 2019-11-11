@@ -29,4 +29,25 @@ En la figura 3 se muestra el tiempo de llegada vs la longitud del paquete en los
   <br><br>
   <b>Figura 3. Tiempo de llegada vs longitud del paquete de los primeros 1000 paquetes en el primer nodo.</b><br>
 </p>
-La figura 4 muestra la gráfica de tiempo vs paquetes por segundo del primer nodo
+La figura 4 muestra la gráfica de tiempo vs paquetes por segundo del primer nodo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68622469-3513f400-04a0-11ea-94b3-1da4fc6ffe07.png">
+  <br><br>
+  <b>Figura 4. Tiempo vs paquetes por segundo en el primer nodo</b><br>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68622469-3513f400-04a0-11ea-94b3-1da4fc6ffe07.png">
+  <br><br>
+  <b>Tabla 1. Resumen de conversación entre nodos BW=1Mbps Nodo =1</b><br>
+</p>
+En el nodo 2:
+En la figura 5 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
+
+
+
+
+
+
+
+
+
