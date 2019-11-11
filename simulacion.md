@@ -179,7 +179,8 @@ La figura 20 muestra la gráfica de tiempo vs paquetes por segundo del primer no
   <br><br>
   <b>Tabla 5. Resumen de conversación entre nodos BW=10 Mbps Nodo =1.</b><br>
 </p>
-**En el nodo 2 :**
+<b>En el nodo 2 :</b>
+
 En la figura 21 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
 
 
