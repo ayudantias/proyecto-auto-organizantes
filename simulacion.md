@@ -142,10 +142,10 @@ La figura 16 muestra la gráfica de tiempo vs paquetes por segundo del cuarto no
 
 **Escenario 2: Ancho de banda de 10 Mbps**
 Nodes = 4 Avg throughput = 104.577 kbits/sec AllTx= 3936 AllRx= 108 AllLx= 6462 TotalDelay= 4.42331
-
+<p>
 <br>En el nodo 1 :</b>
 En la figura 17 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
-
+</p>
 
 
 
