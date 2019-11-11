@@ -48,7 +48,7 @@ La figura 4 muestra la gráfica de tiempo vs paquetes por segundo del primer nod
   <br><br>
   <b>Tabla 1. Resumen de conversación entre nodos BW=1Mbps Nodo =1</b><br>
 </p>
-**En el nodo 2:**
+<b>En el nodo 2 :</b>
 En la figura 5 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
 
 <p align="center">
@@ -79,7 +79,7 @@ La figura 8 muestra la gráfica de tiempo vs paquetes por segundo del segundo no
   <br><br>
   <b>Tabla 2. Resumen de conversación entre nodos BW=1Mbps Nodo=2</b><br>
 </p>
-**En el nodo 3 :**
+<b>En el nodo 3 :</b>
 En la figura 9 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57605830/68626718-f97e2780-04a9-11ea-978e-dd9b0c41549e.png">
@@ -109,7 +109,7 @@ La figura 12 muestra la gráfica de tiempo vs paquetes por segundo del tercer no
   <br><br>
   <b>Tabla 3. Resumen de conversación entre nodos BW=1Mbps Nodo=3</b><br>
 </p>
-**En el nodo 4 :**
+<b>En el nodo 4 :</b>
 En la figura 13 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57605830/68626831-3fd38680-04aa-11ea-86b3-b5e91582f03e.png">
