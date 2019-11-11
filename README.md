@@ -51,8 +51,8 @@ Se establece el número de nodos, el número de flujos o conexiones, la media de
   int dataRate = 1024;        // Kbps bandwidth
   double totalTime = 60.0;    // simulation time seconds
 ```
-Se parametriza la simulación desde la línea de comandos
-cmd.AddValue() imprime los valores de cada variable. El segundo parámetro es una descripción.
+Se parametriza la simulación desde la línea de comandos cmd.AddValue() imprime los valores de cada variable. El segundo parámetro es una descripción.
+
 Se crean los nodos.
 
 ```c++
@@ -70,9 +70,9 @@ Se crean los nodos.
   nodes.Create (numNodes);
 
 ```
-WifiHelper ayuda a crear objetos WifiNetDevide y a configurar sus atributos
-YansWifiPhyHelper crea un ayudante de Phy con la configuración por defecto
-YansWifiChannelHelper crea un canal llamado wifiChannel
+WifiHelper ayuda a crear objetos WifiNetDevide y a configurar sus atributos.
+YansWifiPhyHelper crea un ayudante de Phy con la configuración por defecto.
+YansWifiChannelHelper crea un canal llamado wifiChannel.
 Se modela la demora y pérdida de propagación a través de un medio de transmisión.
 en wifiChannel.  
 ```c++
@@ -89,10 +89,9 @@ en wifiChannel.
                                 "DataMode",StringValue (phyMode),
                                 "ControlMode",StringValue (phyMode));
 ```
-Se asigna el canal al objeto wifiPhy
-Se crean capas MAC 
-Se define el standard 802.11b
-
+Se asigna el canal al objeto wifiPhy.
+Se crean capas MAC. 
+Se define el standard 802.11b.
 
 ```c++
   // Wifi configuration
