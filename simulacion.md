@@ -147,12 +147,36 @@ Nodes = 4 Avg throughput = 104.577 kbits/sec AllTx= 3936 AllRx= 108 AllLx= 6462 
 **En el nodo 1 :**
 
 En la figura 17 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
-
-
-
-
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68626954-8aed9980-04aa-11ea-9cc9-a4098a6ca5b9.png">
+  <br><br>
+  <b>Figura 17. Número de paquete vs longitud de paquete en el primer nodo.</b><br>
+</p>
+En la figura 18 se muestra la cantidad de paquetes según su longitud en el primer nodo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68626979-9a6ce280-04aa-11ea-86ab-c1d05ef4e03a.png">
+  <br><br>
+  <b>Figura 18. Cantidad de paquetes según longitud (por intervalos) en el primer nodo.</b><br>
+</p>
+En la figura 19 se muestra el tiempo de llegada vs la longitud del paquete en los primeros 1000 paquetes del primer nodo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627005-a9539500-04aa-11ea-81fb-2e5677c2070b.png">
+  <br><br>
+  <b>Figura 19. Tiempo de llegada vs longitud del paquete de los primeros 1000 paquetes en el primer nodo.</b><br>
+</p>
+La figura 20 muestra la gráfica de tiempo vs paquetes por segundo del primer nodo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627032-b8d2de00-04aa-11ea-9183-e0b577f8b48b.png">
+  <br><br>
+  <b>Figura 20. Tiempo vs paquetes por segundo en el primer nodo.</b><br>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68628035-63e49700-04ad-11ea-978e-924bf1d501e2.png">
+  <br><br>
+  <b>Tabla 5. Resumen de conversación entre nodos BW=10 Mbps Nodo =1.</b><br>
+</p>
+<br>En el nodo 2:</br>
+En la figura 21 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
 
 
 
