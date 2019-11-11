@@ -36,7 +36,7 @@ La figura 4 muestra la gráfica de tiempo vs paquetes por segundo del primer nod
   <b>Figura 4. Tiempo vs paquetes por segundo en el primer nodo</b><br>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57605830/68622710-d1d69180-04a0-11ea-9c67-1b0bc9dd902f.pngg">
+  <img src="https://user-images.githubusercontent.com/57605830/68622710-d1d69180-04a0-11ea-9c67-1b0bc9dd902f.png">
   <br><br>
   <b>Tabla 1. Resumen de conversación entre nodos BW=1Mbps Nodo =1</b><br>
 </p>
