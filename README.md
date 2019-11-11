@@ -5,9 +5,9 @@ Se van a considerar cinco grandes fases en el desarrollo del proyecto, estas fas
 2. Diseño de la metodología de desarrollo del framework para sistemas descentralizados: tomando como referencias diferentes metodologías de la literatura, llegar a la consolidación de una metodología apropiada para la generación de técnicas de computación para el desarrollo de sistemas descentralizados artificiales.
 3. Construcción de los módulos requeridos para la consecución del sistema. Estos módulos deben contener los aspectos: redes ad hoc, sistemas de agentes de software. Hacer un listado de los componentes y sus propiedades para tener escenarios de pruebas convenientes con los objetivos de la investigación.
 4. Implementación de un set de pruebas de los módulos para garantizar un buen proceso de implementación. Esta implementación debe ir en dirección de tres escenarios:
-•	Escenario 1: una red ad hoc, con la capacidad para la implementación de scripts de gestión
-•	Escenario 2: un sistema de agentes de software para implementar comunicaciones entre agentes
-•	Escenario 3: un prototipo de framework que permita la implementación de diferentes soluciones a redes de comunicaciones, extensión de cobertura, redes de sensores. 
+  - Escenario 1: una red ad hoc, con la capacidad para la implementación de scripts de gestión.
+  - Escenario 2: un sistema de agentes de software para implementar comunicaciones entre agentes.
+  - Escenario 3: un prototipo de framework que permita la implementación de diferentes soluciones a redes de comunicaciones, extensión de cobertura, redes de sensores. 
 5. Construcción de un set de pruebas con una red ad hoc implementada con nodos computacionales para analizar su comportamiento aplicando los mecanismos de gestión de redes. Se debe realizar la prueba con una red de nodos físicos (Raspberry pi) y realizar mediciones de throughput, tiempo de espera y numero de paquetes perdidos.
  Las anteriores fases, son los pasos a seguir para la consecución del objetivo general de la investigación que se propone. 
  
