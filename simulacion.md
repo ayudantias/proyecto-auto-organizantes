@@ -17,3 +17,8 @@ A continuación se muestran los resultados de las simulaciones y el análisis re
 
 En la figura 2 se muestra la cantidad de paquetes según su longitud.
 
+<p align="center">
+  <img src="hhttps://github.com/ayudantias/proyecto-auto-organizantes/issues/2#issue-521194829">
+  <br><br>
+  <b>Figura 2. Cantidad de paquetes según longitud (por intervalos) en el primer nodo.</b><br>
+</p>
