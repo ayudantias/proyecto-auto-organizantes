@@ -285,18 +285,31 @@ Se imprime la información general y resultados .
 # Referencias Bibliográficas. 
 
 Alzate, M. A., Pagán, J.-C., Peña, N. M., & Labrador, M. A. (2008). End-to-end bandwidth and available bandwidth estimation in multi-hop IEEE 802.11 b ad hoc networks. In Information Sciences and Systems, 2008. CISS 2008. 42nd Annual Conference on (pp. 659–664). IEEE.
+
 Brody, P., & Pureswaran, V. (2014). Device democracy: Saving the future of the Internet of Things. IBM, September.
+
 Cadger, F., Curran, K., Santos, J., & Moffett, S. (2013). A survey of geographical routing in wireless ad-hoc networks. IEEE Communications Surveys & Tutorials, 15(2), 621–653.
+
 Dressler, F. (2008). Self-organization in sensor and actor networks. John Wiley & Sons.
+
 Dressler, F., Dietrich, I., German, R., & Krüger, B. (2009). A rule-based system for programming self-organized sensor and actor networks. Computer Networks, 53(10), 1737–1750.
+
 Fradkov, A. L., Miroshnik, I. V, & Nikiforov, V. O. (2013). Nonlinear and adaptive control of complex systems (Vol. 491). Springer Science & Business Media.
+
 Kondepudi, D., Kay, B., & Dixon, J. (2015). End-directed evolution and the emergence of energy-seeking behavior in a complex system. Physical Review E, 91(5), 50902.
+
 Korzun, D. G., Nikolaevskiy, I., & Gurtov, A. (2015). Service intelligence support for medical sensor networks in personalized mobile health systems. In Conference on Smart Spaces (pp. 116–127). Springer.
+
 Loo, J., Mauri, J. L., & Ortiz, J. H. (2016). Mobile ad hoc networks: current status and future trends. CRC Press.
+
 Mejia, M., Peña, N., Muñoz, J. L., Esparza, O., & Alzate, M. A. (2011). A game theoretic trust model for on-line distributed evolution of cooperation inMANETs. Journal of Network and Computer Applications, 34(1), 39–51.
+
 Prehofer, C., & Bettstetter, C. (2005). Self-organization in communication networks: principles and design paradigms. IEEE Communications Magazine, 43(7), 78–85.
+
 Ruths, J., & Ruths, D. (2014). Control profiles of complex networks. Science, 343(6177), 1373–1376.
+
 Sanchez, J. F., & Cobo, L. A. (2014). Theoretical model of congestion control in VANET networks. In Communications and Computing (COLCOM), 2014 IEEE Colombian Conference on (pp. 1–6). IEEE.
+
 Sánchez, J. F., Pablo, J., Lopez, O. J., & Ortiz, J. (2017). Proposed ad hoc network to expand coverage of an IEEE 802.11 n network. In Communications and Computing (COLCOM), 2017 IEEE Colombian Conference on (pp. 1–5). IEEE.
+
 Serugendo, G. D. M., & Fernandez-Marquez, J. L. (2013). Self-organising services. In Self-Adaptive and Self-Organizing Systems (SASO), 2013 IEEE 7th International Conference on (pp. 257–258). IEEE.
-11.	
