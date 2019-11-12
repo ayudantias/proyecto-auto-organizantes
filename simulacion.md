@@ -149,7 +149,6 @@ La figura 16 muestra la gráfica de tiempo vs paquetes por segundo del cuarto no
 Nodes = 4 Avg throughput = 104.577 kbits/sec AllTx= 3936 AllRx= 108 AllLx= 6462 TotalDelay= 4.42331
 
 **En el nodo 1 :**
-
 En la figura 17 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57605830/68626954-8aed9980-04aa-11ea-9cc9-a4098a6ca5b9.png">
@@ -182,23 +181,96 @@ La figura 20 muestra la gráfica de tiempo vs paquetes por segundo del primer no
 <b>En el nodo 2 :</b>
 
 En la figura 21 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627083-dc962400-04aa-11ea-9253-21bbf90a01a9.png">
+  <br><br>
+  <b>Figura 21. Número de paquete vs longitud de paquete en el segundo nodo.</b><br>
+</p>
+En la figura 22 se muestra la cantidad de paquetes según su longitud en el segundo nodo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627103-ea4ba980-04aa-11ea-8204-db61a7105577.png">
+  <br><br>
+  <b>Figura 22. Cantidad de paquetes según longitud (por intervalos) en el segundo nodo.</b><br>
+</p>
+En la figura 23 se muestra el tiempo de llegada vs la longitud del paquete en los primeros 1000 paquetes del segundo nodo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627125-fafc1f80-04aa-11ea-9340-8fc4207a1177.png">
+  <br><br>
+  <b>Figura 23. Tiempo de llegada vs longitud del paquete de los primeros 1000 paquetes en el segundo nodo.</b><br>
+</p>
+La figura 24 muestra la gráfica de tiempo vs paquetes por segundo del segundo nodo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627142-09e2d200-04ab-11ea-9a97-d515636954af.png">
+  <br><br>
+  <b>Figura 24. Tiempo vs paquetes por segundo en el segundo nodo.</b><br>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68628058-765ed080-04ad-11ea-98ca-d97201d57c6b.png">
+  <br><br>
+  <b>Tabla 6. Resumen de conversación entre nodos BW=10 Mbps Nodo =2.</b><br>
+</p>
+<b>En el nodo 3 :</b>
 
+En la figura 25 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627171-1ff09280-04ab-11ea-9b5b-c18d0f95d541.png">
+  <br><br>
+  <b>Figura 25. Número de paquete vs longitud de paquete en el tercer nodo.</b><br>
+</p>
+En la figura 26 se muestra la cantidad de paquetes según su longitud en el tercer nodo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627201-31d23580-04ab-11ea-868d-fd2dbbae79a3.png">
+  <br><br>
+  <b>Figura 26. Cantidad de paquetes según longitud (por intervalos) en el tercer nodo.</b><br>
+</p>
+En la figura 27 se muestra el tiempo de llegada vs la longitud del paquete en los primeros 1000 paquetes del tercer nodo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627535-fd12ae00-04ab-11ea-8fb3-6e293fed89db.png">
+  <br><br>
+  <b>Figura 27. Tiempo de llegada vs longitud del paquete de los primeros 1000 paquetes en el tercer nodo.</b><br>
+</p>
+La figura 28 muestra la gráfica de tiempo vs paquetes por segundo del tercer nodo
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627663-51b62900-04ac-11ea-8494-b295a2fd349d.png">
+  <br><br>
+  <b>Figura 28. Tiempo vs paquetes por segundo en el tercer nodo.</b><br>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68628086-8c6c9100-04ad-11ea-9a78-954c3034aa18.png">
+  <br><br>
+  <b>Tabla 7. Resumen de conversación entre nodos BW=10 Mbps Nodo =3.</b><br>
+</p>
+<b>En el nodo 4 :</b>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+En la figura 29 se muestra la gráfica de número de paquete vs longitud de paquete de las primeras 1000 muestras para una mejor visualización de los resultados.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627690-65fa2600-04ac-11ea-8a61-2294b7d9f531.png">
+  <br><br>
+  <b>Figura 29. Número de paquete vs longitud de paquete en el cuarto nodo.</b><br>
+</p>
+En la figura 30 se muestra la cantidad de paquetes según su longitud en el cuarto nodo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627707-75796f00-04ac-11ea-87d5-f8d52c6ba48b.png">
+  <br><br>
+  <b>Figura 30. Cantidad de paquetes según longitud (por intervalos) en el cuarto nodo.</b><br>
+</p>
+En la figura 31 se muestra el tiempo de llegada vs la longitud del paquete en los primeros 1000 paquetes del cuarto nodo
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627886-f0db2080-04ac-11ea-8f6f-33155d83c7d2.png">
+  <br><br>
+  <b>Figura 31. Tiempo de llegada vs longitud del paquete de los primeros 1000 paquetes en el cuarto nodo.</b><br>
+</p>
+La figura 32 muestra la gráfica de tiempo vs paquetes por segundo del cuarto nodo
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68627918-051f1d80-04ad-11ea-818d-06ee0aea741f.png">
+  <br><br>
+  <b>Figura 32. Tiempo vs paquetes por segundo en el cuarto nodo.</b><br>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57605830/68628111-9c847080-04ad-11ea-9338-deacff763946.png">
+  <br><br>
+  <b>Tabla 8. Resumen de conversación entre nodos BW=10 Mbps Nodo =4.</b><br>
+</p>
 
 
 
