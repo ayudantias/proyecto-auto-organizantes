@@ -11,6 +11,24 @@ Se van a considerar cinco grandes fases en el desarrollo del proyecto, estas fas
 5. Construcción de un set de pruebas con una red ad hoc implementada con nodos computacionales para analizar su comportamiento aplicando los mecanismos de gestión de redes. Se debe realizar la prueba con una red de nodos físicos (Raspberry pi) y realizar mediciones de throughput, tiempo de espera y numero de paquetes perdidos.
  Las anteriores fases, son los pasos a seguir para la consecución del objetivo general de la investigación que se propone. 
  
+ # Para Colaboradores
+  - descargar ultima version del master a local: git push origin master
+  - Carga cambios repositorio remoto a master: git pull origin master
+ - Crear una rama en el repositorio local: git branch nombre-de-la-rama o git checkout -b nombre-de-la-rama.
+ - Para cambiar de rama  git checkout nombre-de-la-rama.
+ - Para visualizar todas las ramas existentes: git branch 
+ - Para visualizar todas las ramas existentes y saber su historia: git show-branch 
+ - Para visualizar todas las ramas existentes y sabesr su historia a mas detalle : git show-branch --all 
+ - Publicar una rama local al repositorio remoto: git push origin nombre-de-la-rama.
+ 
+Es considerado buena práctica estar seguro de que tienes una versión actualizada del repositorio en el que colaboras. Para ello deberías hacer un git pull antes de hacer cambios. El enfoque sería:
+
+actualizar el repositorio local git pull origin master,
+realizar cambios git add,
+realizar un commit git commit -m, y
+cargar las actualizaciones a GitHub con git push origin master
+Es mejor hacer varias actualizaciones pequeñas que un commit grande con cambios enormes. Commits pequeños son más fáciles de leer y revisar.
+ 
  # Descripción de la simulación
  
  Consiste en una red ad hoc conformada por 4 nodos que tienen movimiento y tráfico variable, donde todos los nodos generan tráfico.
