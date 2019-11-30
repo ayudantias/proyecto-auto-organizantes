@@ -19,24 +19,20 @@ Para ello se debe hacer un **git pull** antes de hacer cambios.
 
 **El enfoque sería**:
 
- - Actualizar el repositorio local **git pull origin master**.
- - realizar cambios **git add**.
- - realizar un **commit git commit -m**.
- - cargar las actualizaciones a GitHub con **git push origin master**.
 
-**NOTA:** Para su optimo desarrollo es recomendable hacer pequeñas actualizaciones 'commit' por que durante el desarrollo es mas facil de leer y revisar sea el caso de un fallo.
 
-para la colaboracion del presente proyecto hay que tener en cuenta los siguientes comandos:
-
- - Descargar ultima version del master a local: git push origin master
- - Carga cambios repositorio remoto a master: git pull origin master
- - Crear una rama en el repositorio local: git branch nombre-de-la-rama o git checkout -b nombre-de-la-rama.
- - Para cambiar de rama  git checkout nombre-de-la-rama.
- - Para visualizar todas las ramas existentes: git branch 
- - Para visualizar todas las ramas existentes y saber su historia: git show-branch 
- - Para visualizar todas las ramas existentes y sabesr su historia a mas detalle : git show-branch --all 
- - Publicar una rama local al repositorio remoto: git push origin nombre-de-la-rama.
+ - Cargar las actualizaciones a GitHub con **git push origin master**.
+ - Realizar cambios: **git add**.
+ - Realizar un **commit git commit -m**.
+ - Actualizar el repositorio local: **git pull origin master**.
+ - Crear una rama en el repositorio local: **git branch nombre-de-la-rama o git checkout -b nombre-de-la-rama.**
+ - Para cambiar de rama:  **git checkout nombre-de-la-rama.**
+ - Para visualizar todas las ramas existentes: **git branch.** 
+ - Para visualizar todas las ramas existentes y saber su historia: **git show-branch.** 
+ - Para visualizar todas las ramas existentes y sabesr su historia a mas detalle : **git show-branch --all** 
+ - Publicar una rama local al repositorio remoto: **git push origin nombre-de-la-rama.**
  
+**NOTA:** Para su optimo desarrollo es recomendable hacer pequeñas actualizaciones 'commit' por que durante el desarrollo es mas facil de leer y revisar sea el caso de un fallo.
 
 
 # Descripción de la simulación
