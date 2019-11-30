@@ -12,8 +12,8 @@ Se van a considerar cinco grandes fases en el desarrollo del proyecto, estas fas
  Las anteriores fases, son los pasos a seguir para la consecución del objetivo general de la investigación que se propone. 
  
  # Para Colaboradores
-  - descargar ultima version del master a local: git push origin master
-  - Carga cambios repositorio remoto a master: git pull origin master
+ - Descargar ultima version del master a local: git push origin master
+ - Carga cambios repositorio remoto a master: git pull origin master
  - Crear una rama en el repositorio local: git branch nombre-de-la-rama o git checkout -b nombre-de-la-rama.
  - Para cambiar de rama  git checkout nombre-de-la-rama.
  - Para visualizar todas las ramas existentes: git branch 
