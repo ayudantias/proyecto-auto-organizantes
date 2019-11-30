@@ -21,17 +21,18 @@ Se van a considerar cinco grandes fases en el desarrollo del proyecto, estas fas
  - Para visualizar todas las ramas existentes y sabesr su historia a mas detalle : git show-branch --all 
  - Publicar una rama local al repositorio remoto: git push origin nombre-de-la-rama.
  
-Es considerado buena práctica estar seguro de que tienes una versión actualizada del repositorio en el que colaboras. Para ello deberías hacer un git pull antes de hacer cambios. El enfoque sería:
+Es considerado buena práctica estar seguro de que tienes una versión actualizada del repositorio en el que colaboras. 
 
-actualizar el repositorio local git pull origin master,
-realizar cambios git add,
-realizar un commit git commit -m, y
-cargar las actualizaciones a GitHub con git push origin master
+Para ello deberías hacer un **git pull** antes de hacer cambios. El enfoque sería:
+
+Actualizar el repositorio local **git pull origin master**, realizar cambios **git add** , realizar un **commit git commit -m**, y cargar las actualizaciones a GitHub con **git push origin master**.
+
 Es mejor hacer varias actualizaciones pequeñas que un commit grande con cambios enormes. Commits pequeños son más fáciles de leer y revisar.
- 
- # Descripción de la simulación
+
+# Descripción de la simulación
  
  Consiste en una red ad hoc conformada por 4 nodos que tienen movimiento y tráfico variable, donde todos los nodos generan tráfico.
+ 
 # Importación de librerías
 ```c++
 #include "ns3/core-module.h"
