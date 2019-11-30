@@ -12,6 +12,22 @@ Se van a considerar cinco grandes fases en el desarrollo del proyecto, estas fas
  Las anteriores fases, son los pasos a seguir para la consecución del objetivo general de la investigación que se propone. 
  
  # Para Colaboradores
+ 
+Es de considerar una buena práctica estar seguro de que se tiene una versión actualizada del repositorio. 
+
+Para ello se debe hacer un **git pull** antes de hacer cambios.
+
+**El enfoque sería**:
+
+ - Actualizar el repositorio local **git pull origin master**.
+ - realizar cambios **git add**.
+ - realizar un **commit git commit -m**.
+ - cargar las actualizaciones a GitHub con **git push origin master**.
+
+**NOTA:** Para su optimo desarrollo es recomendable hacer pequeñas actualizaciones 'commit' por que durante el desarrollo es mas facil de leer y revisar sea el caso de un fallo.
+
+para la colaboracion del presente proyecto hay que tener en cuenta los siguientes comandos:
+
  - Descargar ultima version del master a local: git push origin master
  - Carga cambios repositorio remoto a master: git pull origin master
  - Crear una rama en el repositorio local: git branch nombre-de-la-rama o git checkout -b nombre-de-la-rama.
@@ -21,13 +37,7 @@ Se van a considerar cinco grandes fases en el desarrollo del proyecto, estas fas
  - Para visualizar todas las ramas existentes y sabesr su historia a mas detalle : git show-branch --all 
  - Publicar una rama local al repositorio remoto: git push origin nombre-de-la-rama.
  
-Es considerado buena práctica estar seguro de que tienes una versión actualizada del repositorio en el que colaboras. 
 
-Para ello deberías hacer un **git pull** antes de hacer cambios. El enfoque sería:
-
-Actualizar el repositorio local **git pull origin master**, realizar cambios **git add** , realizar un **commit git commit -m**, y cargar las actualizaciones a GitHub con **git push origin master**.
-
-Es mejor hacer varias actualizaciones pequeñas que un commit grande con cambios enormes. Commits pequeños son más fáciles de leer y revisar.
 
 # Descripción de la simulación
  
